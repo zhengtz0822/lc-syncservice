@@ -1,0 +1,16 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/LczgSyncDocument/LczgDocumentSync/bin
+/LczgSyncDocument/LczgDocumentSync/obj
+/LczgSyncDocument/LczgDocumentSync.Applications/bin
+/LczgSyncDocument/LczgDocumentSync.Applications/obj
+/LczgSyncDocument/LczgDocumentSync.Applications.Model/bin
+/LczgSyncDocument/LczgDocumentSync.Applications.Model/obj
+/LczgSyncDocument/LczgDocumentSync.Core/bin
+/LczgSyncDocument/LczgDocumentSync.Core/obj
+/LczgSyncDocument/LczgDocumentSync.Interfaces/bin
+/LczgSyncDocument/LczgDocumentSync.Interfaces/obj
+/LczgSyncDocument/LczgDocumentSync.ScheduledTask/bin
+/LczgSyncDocument/LczgDocumentSync.ScheduledTask/obj

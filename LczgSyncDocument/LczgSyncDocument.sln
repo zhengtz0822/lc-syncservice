@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LczgDocumentSync.Core", "LczgDocumentSync.Core\LczgDocumentSync.Core.csproj", "{4D9228FA-DBC9-4295-AE52-0D36BD27EF6A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LczgDocumentSync", "LczgDocumentSync\LczgDocumentSync.csproj", "{D1631D55-5CD7-4C1E-9449-4A582E64BFA0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LczgDocumentSync.ScheduledTask", "LczgDocumentSync.ScheduledTask\LczgDocumentSync.ScheduledTask.csproj", "{6AAA3409-D544-4D5A-9038-FDE76CAA2754}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LczgDocumentSync.Interfaces", "LczgDocumentSync.Interfaces\LczgDocumentSync.Interfaces.csproj", "{D920BA0A-B596-4951-AE3B-F849625B785A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LczgDocumentSync.Applications", "LczgDocumentSync.Applications\LczgDocumentSync.Applications.csproj", "{9796CE5D-96A8-46E5-AC72-84EE98BC0721}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LczgDocumentSync.Applications.Model", "LczgDocumentSync.Applications.Model\LczgDocumentSync.Applications.Model.csproj", "{1C5DF872-B9DB-4AD6-A404-CD5F2B1B38C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D9228FA-DBC9-4295-AE52-0D36BD27EF6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D9228FA-DBC9-4295-AE52-0D36BD27EF6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D9228FA-DBC9-4295-AE52-0D36BD27EF6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D9228FA-DBC9-4295-AE52-0D36BD27EF6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1631D55-5CD7-4C1E-9449-4A582E64BFA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1631D55-5CD7-4C1E-9449-4A582E64BFA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1631D55-5CD7-4C1E-9449-4A582E64BFA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1631D55-5CD7-4C1E-9449-4A582E64BFA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AAA3409-D544-4D5A-9038-FDE76CAA2754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AAA3409-D544-4D5A-9038-FDE76CAA2754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AAA3409-D544-4D5A-9038-FDE76CAA2754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AAA3409-D544-4D5A-9038-FDE76CAA2754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D920BA0A-B596-4951-AE3B-F849625B785A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D920BA0A-B596-4951-AE3B-F849625B785A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D920BA0A-B596-4951-AE3B-F849625B785A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D920BA0A-B596-4951-AE3B-F849625B785A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9796CE5D-96A8-46E5-AC72-84EE98BC0721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9796CE5D-96A8-46E5-AC72-84EE98BC0721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9796CE5D-96A8-46E5-AC72-84EE98BC0721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9796CE5D-96A8-46E5-AC72-84EE98BC0721}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C5DF872-B9DB-4AD6-A404-CD5F2B1B38C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C5DF872-B9DB-4AD6-A404-CD5F2B1B38C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C5DF872-B9DB-4AD6-A404-CD5F2B1B38C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C5DF872-B9DB-4AD6-A404-CD5F2B1B38C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

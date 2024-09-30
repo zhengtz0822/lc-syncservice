@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>LczgDodumentSync</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AntDesign.Charts" Version="0.4.0" />
+    <PackageReference Include="AntDesign.ProLayout" Version="0.16.2" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="9.0.0" />
+    <PackageReference Include="Hangfire.AspNetCore" Version="1.8.12" />
+    <PackageReference Include="Hangfire.Storage.SQLite" Version="0.4.2" />
+    <PackageReference Include="System.Net.Http.Json" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LczgDocumentSync.Applications\LczgDocumentSync.Applications.csproj" />
+    <ProjectReference Include="..\LczgDocumentSync.Core\LczgDocumentSync.Core.csproj" />
+    <ProjectReference Include="..\LczgDocumentSync.ScheduledTask\LczgDocumentSync.ScheduledTask.csproj" />
+  </ItemGroup>
+  
+</Project>

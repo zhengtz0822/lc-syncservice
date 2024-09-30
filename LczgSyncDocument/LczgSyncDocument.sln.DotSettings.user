@@ -1,0 +1,6 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Users\Administrator2\.nuget\packages\autofac.extensions.dependencyinjection\9.0.0\lib\net8.0\Autofac.Extensions.DependencyInjection.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\Administrator2\.nuget\packages\newlife.rocketmq\2.5.2024.708\lib\netstandard2.1\NewLife.RocketMQ.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	</wpf:ResourceDictionary>
